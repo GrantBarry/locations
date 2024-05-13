@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location_state: one
+  location_district: one
+  name: MyString
+  description: MyText
+
+two:
+  location_state: two
+  location_district: two
+  name: MyString
+  description: MyText

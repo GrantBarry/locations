@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location_country: one
+  name: MyString
+  abbreviation: MyString
+
+two:
+  location_country: two
+  name: MyString
+  abbreviation: MyString
