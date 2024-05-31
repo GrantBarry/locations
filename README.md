@@ -21,6 +21,12 @@ Or install it yourself as:
 $ gem install locations
 ```
 
+
+## To add migrations
+To copy these migrations into the application run the following command from the application's root:
+
+    $ bin/rails locations_engine:install:migrations
+
 ## Contributing
 Contribution directions go here.
 
